@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.13"
+  }
+}
